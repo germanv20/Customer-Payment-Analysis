@@ -1,0 +1,11 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sqlalchemy
+pymysql
+python-dotenv
+reverse_geocoder
+requests

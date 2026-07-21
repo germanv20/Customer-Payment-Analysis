@@ -1,0 +1,1 @@
+The Power BI file (`moni.pbix`, ~138 MB) is kept locally and isn't tracked in this repo — see the README's "A
