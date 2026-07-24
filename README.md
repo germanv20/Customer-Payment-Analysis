@@ -99,24 +99,23 @@ Power BI connects live to MySQL (`MySQL.Database`) in import mode and pulls thes
 
 Six pages (`moni.pbix`, not included in this repo — see note below):
 
-**Portada (Cover)** — landing page with navigation buttons to every other page.
+**Portada (Cover)** — landing page with navigation buttons to every other page. ![Portada](images/1_Indice.png)
 
-**Clientes (Customers)** — active client count; client mix by sex (donut) and by US state (shape map); clients by age range and by FICO category; **RFM segment breakdown** (champion/loyal/at risk/hibernating/etc.); a ranked client table by transaction volume; high-value (>$100K) and low-value (<$10K) client counts and rates; year slicer.
+**Clientes (Customers)** — active client count; client mix by sex (donut) and by US state (shape map); clients by age range and by FICO category; **RFM segment breakdown** (champion/loyal/at risk/hibernating/etc.); a ranked client table by transaction volume; high-value (>$100K) and low-value (<$10K) client counts and rates; year slicer. ![Clientes](images/2_Clientes.png)
 
-**Consumo (Consumption)** — average spend per client; income-vs-spend scatter plot; spend by age range, by credit-limit segment, and by time of day; spend split by merchant category and by card brand (donuts); transaction count and total volume KPIs; year slicer.
+**Consumo (Consumption)** — average spend per client; income-vs-spend scatter plot; spend by age range, by credit-limit segment, and by time of day; spend split by merchant category and by card brand (donuts); transaction count and total volume KPIs; year slicer. ![Consumo](images/3_Consumo.png)
 
-**Transacciones (Transactions)** — transaction count, total volume, average value, and success-rate KPIs; monthly trend lines (volume and count); transaction count and volume by country/state; active-cards KPI and card-type breakdown; average credit limit and card count by credit-limit segment; card-brand slicer.
+**Transacciones (Transactions)** — transaction count, total volume, average value, and success-rate KPIs; monthly trend lines (volume and count); transaction count and volume by country/state; active-cards KPI and card-type breakdown; average credit limit and card count by credit-limit segment; card-brand slicer. ![Transacciones](images/4_Transacciones.png)
 
-**Riesgo (Risk)** — average debt-to-income ratio; total debt by age range; average credit score and category; a **financial risk gauge** (a blended 1–5 score combining debt-to-income and credit-score risk, weighted 60/40); high-risk client count and rate; risk-by-state shape map and table; client count, average income, and average debt KPIs; year slicer.
+**Riesgo (Risk)** — average debt-to-income ratio; total debt by age range; average credit score and category; a **financial risk gauge** (a blended 1–5 score combining debt-to-income and credit-score risk, weighted 60/40); high-risk client count and rate; risk-by-state shape map and table; client count, average income, and average debt KPIs; year slicer. ![Riesgo](images/5_Riesgo.png)
 
-**Diccionario (Dictionary)** — a data-dictionary page explaining every metric and segment used across the dashboard, for anyone reviewing it without context.
+**Diccionario (Dictionary)** — a data-dictionary page explaining every metric and segment used across the dashboard, for anyone reviewing it without context. ![Diccionario](images/6_Diccionario.png)
 
 Every content page has consistent navigation buttons back to the cover and dictionary — built as a real multi-page BI product
 
 ## A note on the `.pbix` file
 
 `moni_dashboard.pbix` is ~138 MB, over GitHub's 100 MB per-file limit for a normal push.
-- See an image of each dashboard page in `images/`.
 
 ## Author
 
