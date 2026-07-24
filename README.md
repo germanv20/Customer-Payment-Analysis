@@ -120,4 +120,4 @@ Every content page has consistent navigation buttons back to the cover and dicti
 ## Author
 
 **Germán Valencia** — Data Analyst | SQL · Python · Power BI · Cloud Fundamentals
-[LinkedIn](www.linkedin.com/in/german-valencia-74645458) · [Email](mailto:germancho06@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/german-valencia-74645458) · [Email](mailto:germancho06@gmail.com)
