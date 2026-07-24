@@ -117,6 +117,10 @@ Every content page has consistent navigation buttons back to the cover and dicti
 
 `moni_dashboard.pbix` is ~138 MB, over GitHub's 100 MB per-file limit for a normal push.
 
+## Team
+
+Built as a team capstone project with Yanina Gangemi and Yazmín Flores for the Full Data Analyst certification at Unicorn Academy. This repository reflects my individual contributions and understanding of the full pipeline.
+
 ## Author
 
 **Germán Valencia** — Data Analyst | SQL · Python · Power BI · Cloud Fundamentals
